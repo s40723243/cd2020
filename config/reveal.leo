@@ -68,12 +68,14 @@ Created by [s40723243劉子源](https://s40723243.github.io/cd2020/content/index
 </t>
 <t tx="leo.20180902120523.12"># Week1-5
 
-*week1:建立個人倉儲
-*week2:更新python3.8.2
-*week3:assignment1(Line following BubbleRob tutorial)
-*week4:
-*week5:
+* W1:建立cd2020的個人倉儲
+* W2:更新python3.8.2
+* W3:assignment1(翻譯Line following BubbleRob tutorial )
+* W4:
+* W5:
 
+&lt;small&gt;
+[倉儲連結](https://s40723243.github.io/cd2020/content/Week1-5.html)
 
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
