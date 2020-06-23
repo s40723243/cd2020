@@ -39,6 +39,18 @@
 <v t="leo.20200623204621.1"><vh>assignment3</vh>
 <v t="leo.20200623204621.2"><vh>assignment3</vh></v>
 </v>
+<v t="leo.20200623205817.1"><vh>gm用戶登陸</vh>
+<v t="leo.20200623205817.2"><vh>week10-14</vh></v>
+</v>
+<v t="leo.20200623210116.1"><vh>Vrep虛擬主機設置</vh>
+<v t="leo.20200623210116.2"><vh>0.0</vh></v>
+</v>
+<v t="leo.20200623210226.1"><vh>IPv4</vh>
+<v t="leo.20200623210226.2"><vh>0.0</vh></v>
+</v>
+<v t="leo.20200623210329.1"><vh>IPv6</vh>
+<v t="leo.20200623210329.2"><vh>0.0</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -68,6 +80,7 @@ Created by [劉子源](https://s40723243.github.io/cd2020/content/index.html)
 &lt;/small&gt;
 
 [網誌](https://s40723243.github.io/cd2020/content/index.html)
+
 [倉儲](https://github.com/s40723243/cd2020)
 
 
@@ -353,8 +366,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200623202920.2"># Assignment
 
-* assignment1 pdf(https://github.com/s40723243/cd2020/blob/master/downloads/Assignment1.pdf)
-
+* [assignment1 pdf](https://github.com/s40723243/cd2020/blob/master/downloads/Assignment1.pdf)
 
 &lt;small&gt;
 [1-5周內容](https://s40723243.github.io/cd2020/content/Week1-5.html)
@@ -392,7 +404,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200623204037.2"># Assignment
 
-* assignment2 pdf(https://github.com/s40723243/cd2020/blob/master/downloads/Assignment2.pdf)
+* [assignment2 pdf](https://github.com/s40723243/cd2020/blob/master/downloads/Assignment2.pdf)
 
 
 &lt;small&gt;
@@ -432,11 +444,67 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200623204621.2"># Assignment
 
-* assignment pdf(https://github.com/s40723243/cd2020/blob/master/downloads/Assignment3.pdf)
+* [assignment pdf](https://github.com/s40723243/cd2020/blob/master/downloads/Assignment3.pdf)
 
 
 &lt;small&gt;
 [10-14周內容](https://s40723243.github.io/cd2020/content/Week10-14.html)
+
+</t>
+<t tx="leo.20200623205817.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623205817.2">## gm用戶登陸裝置
+
+&lt;iframe width="742" height="394" src="https://www.youtube.com/embed/62nlaVLgXNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200623210116.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623210116.2">## Vrep虛擬主機設置
+
+&lt;iframe width="743" height="394" src="https://www.youtube.com/embed/SD-VhrCFlNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200623210226.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623210226.2">## IPv4 UBuntu對外連線
+
+&lt;iframe width="742" height="394" src="https://www.youtube.com/embed/3iJWsV0j5u4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200623210329.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623210329.2">## IPv6 遠端控制伺服
+
+&lt;iframe width="616" height="394" src="https://www.youtube.com/embed/FMHrnkK9DOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 </tnodes>
