@@ -202,7 +202,7 @@ make.start()
 <t tx="leo.20180902120523.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-CMSimfly 網際內容管理
+40723243協同產品設計實習
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -521,7 +521,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200623210834.2">## Final Project
 
-* [Final Project](https://github.com/s40723243/cd2020/blob/master/downloads/Final%20Project.pd)
+* [Final Project](https://github.com/s40723243/cd2020/blob/master/downloads/Final%20Project.pdf)
 
 
 
