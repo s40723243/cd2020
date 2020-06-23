@@ -51,6 +51,9 @@
 <v t="leo.20200623210329.1"><vh>IPv6</vh>
 <v t="leo.20200623210329.2"><vh>0.0</vh></v>
 </v>
+<v t="leo.20200623210834.1"><vh>final project</vh>
+<v t="leo.20200623210834.2"><vh>0.0</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -385,7 +388,7 @@ vertical: body pane on the botton</t>
 
 * W6:開始直播分組 並且開始分配小組任務
 * W7:開始著手被分配到的工作
-* W8:翻譯DigitalProductCollaboration(https://github.com/s40723243/cd2020/blob/master/downloads/DigitalProductCollaboration%E7%BF%BB%E8%AD%AF.pdf)
+* W8:[翻譯DigitalProductCollaboration](https://github.com/s40723243/cd2020/blob/master/downloads/DigitalProductCollaboration%E7%BF%BB%E8%AD%AF.pdf)
 * W9:完成assignment2
 
 
@@ -505,6 +508,20 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200623210329.2">## IPv6 遠端控制伺服
 
 &lt;iframe width="616" height="394" src="https://www.youtube.com/embed/FMHrnkK9DOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200623210834.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623210834.2">## Final Project
+
+* 
 
 </t>
 </tnodes>
