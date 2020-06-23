@@ -18,11 +18,26 @@
 <v t="leo.20180902120523.6"><vh>body</vh>
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
-<v t="leo.20180902120523.9"><vh>封面投影片</vh>
+<v t="leo.20180902120523.9"><vh>封面</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
+<v t="leo.20180902120523.11"><vh>week1-5</vh>
 <v t="leo.20180902120523.12"><vh>week1-5</vh></v>
+</v>
+<v t="leo.20200623202920.1"><vh>assignment1</vh>
+<v t="leo.20200623202920.2"><vh>assignment1</vh></v>
+</v>
+<v t="leo.20200623203257.1"><vh>week6-9</vh>
+<v t="leo.20200623203257.2"><vh>week6-9</vh></v>
+</v>
+<v t="leo.20200623204037.1"><vh>assignment2</vh>
+<v t="leo.20200623204037.2"><vh>assignment1</vh></v>
+</v>
+<v t="leo.20200623204224.1"><vh>week10-14</vh>
+<v t="leo.20200623204224.2"><vh>week10-14</vh></v>
+</v>
+<v t="leo.20200623204621.1"><vh>assignment3</vh>
+<v t="leo.20200623204621.2"><vh>assignment3</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -45,15 +60,17 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## 協同產品設計實習
+<t tx="leo.20180902120523.10">## 40723243協同產品設計實習
 
-### s40723243劉子源
 
 &lt;small&gt;
-Created by [s40723243劉子源](https://s40723243.github.io/cd2020/content/index.html)
+Created by [劉子源](https://s40723243.github.io/cd2020/content/index.html)
 &lt;/small&gt;
 
-[s40723243](https://s40723243.github.io/cd2020/blog/index.html)
+[網誌](https://s40723243.github.io/cd2020/content/index.html)
+[倉儲](https://github.com/s40723243/cd2020)
+
+
 
 
 </t>
@@ -66,16 +83,16 @@ Created by [s40723243劉子源](https://s40723243.github.io/cd2020/content/index
 
 						
 </t>
-<t tx="leo.20180902120523.12"># Week1-5
+<t tx="leo.20180902120523.12">## Week1-5
 
 * W1:建立cd2020的個人倉儲
 * W2:更新python3.8.2
 * W3:assignment1(翻譯Line following BubbleRob tutorial )
-* W4:
-* W5:
+* W4:開始查詢相關資料並開始進行assignment1的內容
+* W5:完成assignment1並做出PDF檔
 
 &lt;small&gt;
-[倉儲連結](https://s40723243.github.io/cd2020/content/Week1-5.html)
+[1-5周內容](https://s40723243.github.io/cd2020/content/Week1-5.html)
 
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
@@ -325,5 +342,102 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200623202920.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623202920.2"># Assignment
+
+* assignment1 pdf(https://github.com/s40723243/cd2020/blob/master/downloads/Assignment1.pdf)
+
+
+&lt;small&gt;
+[1-5周內容](https://s40723243.github.io/cd2020/content/Week1-5.html)
+
+</t>
+<t tx="leo.20200623203257.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623203257.2">## Week6-9
+
+* W6:開始直播分組 並且開始分配小組任務
+* W7:開始著手被分配到的工作
+* W8:翻譯DigitalProductCollaboration(https://github.com/s40723243/cd2020/blob/master/downloads/DigitalProductCollaboration%E7%BF%BB%E8%AD%AF.pdf)
+* W9:完成assignment2
+
+
+&lt;small&gt;
+[6-9周內容](https://s40723243.github.io/cd2020/content/Week6-9.html)
+
+</t>
+<t tx="leo.20200623204037.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623204037.2"># Assignment
+
+* assignment2 pdf(https://github.com/s40723243/cd2020/blob/master/downloads/Assignment2.pdf)
+
+
+&lt;small&gt;
+[6-9周內容](https://s40723243.github.io/cd2020/content/Week6-9.html)
+
+</t>
+<t tx="leo.20200623204224.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623204224.2">## Week10-14
+
+* W10:設置gm用戶登陸裝置
+* W11:開會分配assignment3的工作
+* W12:Vrep虛擬主機的設置
+* W13:IPv6遠端設置
+* W14:IPv4 UNbuntu對外連線
+
+
+&lt;small&gt;
+[10-14周內容](https://s40723243.github.io/cd2020/content/Week10-14.html)
+
+</t>
+<t tx="leo.20200623204621.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623204621.2"># Assignment
+
+* assignment pdf(https://github.com/s40723243/cd2020/blob/master/downloads/Assignment3.pdf)
+
+
+&lt;small&gt;
+[10-14周內容](https://s40723243.github.io/cd2020/content/Week10-14.html)
+
+</t>
 </tnodes>
 </leo_file>
